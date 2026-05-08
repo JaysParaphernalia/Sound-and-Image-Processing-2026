@@ -1,8 +1,7 @@
 void setup() {
   size(400, 400); // set size
+  }
   
-}
-
 void draw() {
   
   loadPixels();
