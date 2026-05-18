@@ -21,9 +21,3 @@
     *Both Tasks Demonstrated*
 
     Link to code (video): https://drive.google.com/drive/folders/1EYUsoegJojhaRTqHWCV-kRkM3j4i5mMx?usp=sharing
-
-
-
-
-
-    ![Alt text] C:\New SIP 2026\My SIP 2026\SIP 2026\Manipulating and Analysing Pixels\images\invincibleblurb.PNG
