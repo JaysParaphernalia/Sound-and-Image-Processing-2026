@@ -15,9 +15,9 @@ void setup() {
 
 void draw() {
   
-  background(0);
+   background(0);
   
-  pushMatrix();
+ pushMatrix();
     fill(153, 50, 204);
     translate(xpos + (xstep * 0), height/2);
     rotate(radians(angleOne));
