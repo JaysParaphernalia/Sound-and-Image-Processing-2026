@@ -1,12 +1,9 @@
 # Week 3: Vector Graphics
 
+Link to Recorded Codes: https://drive.google.com/drive/folders/1w59n3zovpWjMwOGFwJgM_Wma6M8JvJ2j?usp=sharing
+
 ## Directory contents
 
-* Code sample for the anti-alias, pushpopMatrix and blend examples are in `examples/`
+* Folderss `amethyst` and `cranberry` were examples from class used to understand modulo and primitives, `poppush` and `week3modulo` were built and expanded upon.
 
-## Week 3 Portfolio Task
 
-Using Processing, make an abstract artwork. It should:
-- Use at least 3 different primitives,
-- Use the modulo ('%') operator to create a pattern. You can use it for example to alternate between different shapes or colours.
-- If you want to, you're welcome to use one of your p5 sketches as a starter. Please make sure to include a reference link if you do.
