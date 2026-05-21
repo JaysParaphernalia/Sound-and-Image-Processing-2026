@@ -9,10 +9,15 @@ In class we were provided code for us to improve over time by implementing techn
 This sketch features:
 
 . Live webcam feed
+
 . Dithering / Error diffusion
+
 . Pixel Processing
+
 . Bright Pixels become white (255)
+
 . Dark Pixels become black(0)
+
 . Saved frames using saveFrame()
 
 - Done by processing webcam input in real time by changing pixel values into limited tones.
