@@ -1,5 +1,7 @@
 # Week 06: Dithering and Convolution
 
+Link to Video: https://drive.google.com/drive/folders/1gjBmPJ4f2Lb4XJg9sYupb6kpTW9I6oI9?usp=sharing
+
 ## Directory contents
 
 > Cam_Work:
