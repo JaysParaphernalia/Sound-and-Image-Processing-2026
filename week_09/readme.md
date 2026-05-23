@@ -1,34 +1,23 @@
 # Week 9: Vectors and movement
+
+Link to screen Recording: https://drive.google.com/drive/folders/1YpANPXLnY9_FqCbUs5jk0UIPAqhV05xj?usp=drive_link
+
 ## Directory contents
 
-* [code examples](./examples)
+> wk9_weeklyTask
 
-## Week 9 Task
+This sketch is a simple survival game where the player controls a character affected by gravity and the wind. 
+The objective is to survive as long as they can while avoiding the chaser.
 
-Feel free to work in pairs (please add a comment about it in your sketch if you do).
+While the player is influenced by the forces it can use the arrow keys and the space bar to avoid the chaser.
 
-**Make a game using all of the below:**
-- at least 1 class
-- at least 2 forces influencing the object movement
-- at least 1 type of interaction.
+The game ends when collision between the chaser and player occurs, there is also a timer featured as a score.
 
-Feel free to use the prompts below or use your own idea. You can also start with a sketch you developed earlier in the term - make sure to save it as a new sketch, as these are separate tasks to submit!
+Features:
 
-**Think about:**
+. Vector based movement
+. Class based system (Chaser)
+. 2 forces influencing the player (gravity and wind)
+. An interaction (Collison)
 
-- the theme of the game
-- what types of objects / game characters you might need
-- the goal of the game
-- the score (if there is one)
-- how does the game end?
-- what are the interactions?
-
-**Optional prompts:**
-
-- You're a player running away from a giant space worm.
-- You're a zombie and you need to collect brains to survive.
-- You're a unicorn jumping from one rainbow to another.
-- You collect flowers of different kinds to complete a predefined bouquet.
-
-**Links to resources & technical references on Moodle :)**
 
