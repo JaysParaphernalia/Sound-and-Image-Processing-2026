@@ -11,9 +11,9 @@ We were given a code in class to adapt with circles to produce a checkboard grid
 
 *Features:*
 
-. Modulo operator for alternating pattern
+1. Modulo operator for alternating pattern
 
-. Nested Loops
+2. Nested Loops
 
 > wk8_WeeklyTask
 
@@ -24,8 +24,8 @@ This sketch replicates an essential hip-hop drum pattern the "one two drum". Don
 
 *Features:*
 
-. Time based sequencing using frameCount
+1. Time based sequencing using frameCount
 
-. Rhythm using modulo
+2. Rhythm using modulo
 
 
