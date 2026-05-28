@@ -15,12 +15,12 @@ The game ends when collision between the chaser and player occurs, there is also
 
 *Features:*
 
-. Vector based movement
+- Vector based movement
 
-. Class based system (Chaser)
+- Class based system (Chaser)
 
-. 2 forces influencing the player (gravity and wind)
+- 2 forces influencing the player (gravity and wind)
 
-. An interaction (Collison)
+- An interaction (Collison)
 
 
