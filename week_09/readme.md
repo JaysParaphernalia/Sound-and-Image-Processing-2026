@@ -13,11 +13,14 @@ While the player is influenced by the forces it can use the arrow keys and the s
 
 The game ends when collision between the chaser and player occurs, there is also a timer featured as a score.
 
-Features:
+*Features:*
 
 . Vector based movement
+
 . Class based system (Chaser)
+
 . 2 forces influencing the player (gravity and wind)
+
 . An interaction (Collison)
 
 
