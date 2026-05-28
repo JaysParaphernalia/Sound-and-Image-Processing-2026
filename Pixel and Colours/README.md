@@ -22,7 +22,7 @@ We were assigned to further develop the code from class, sketches 1-3 show my de
 
 Following those obejectives I have made a pallete which is inspired by my vibe
 
-![alt text](C:\New SIP 2026\My SIP 2026\SIP 2026\Pixel and Colours\image- 1)
+![result](C:\New SIP 2026\My SIP 2026\SIP 2026\Pixel and Colours\image- 1.png)
 
 
 
