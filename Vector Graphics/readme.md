@@ -4,6 +4,14 @@ Link to Recorded Codes: https://drive.google.com/drive/folders/1w59n3zovpWjMwOGF
 
 ## Directory contents
 
-* Folders `amethyst` and `cranberry` were examples from class used to understand modulo and primitives, `poppush` and `week3modulo` were built and expanded upon.
+>amethyst and cranberry
+
+
+- Examples used from class to understand modulo and primitives
+
+
+>poppush and week3moduloo
+
+- Were built upon and expanded
 
 
