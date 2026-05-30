@@ -1,18 +1,92 @@
-# Week 1: Pixels and Colour
+# SIP 2026 Portfolio
 
-## Directory contents
+## Dithering and Convolution (Week 6)
+See folder: Dithering and Convolution  
 
-* Code sample for the gradient is in `examples/gradient`
+- Worked with pixel arrays and image processing
 
-## Week 1 Task
+- Used the processing library to work with live camera feed
 
-Experiment with the code in `examples/gradient`
+- Recrated camera output by coping and modifying pixels
 
-1. Imagine you're desingning branding for a computational art gallery.
-- Find a colour palette of 3-5 colours. It can be taken from a photo, colour palette app, or from your Block 1 sketch from the class on Colour Interactions.
-- Create a gradient that would work well with the colour palette that could be used as a background for posters, website animation, etc.
-- Try slightly tweaking the colours.
-- Can you change the gradient direction?
-- Can you make a circular gradient centred on the middle of the screen?
+---
 
-For the portfolio, submit at least 5 gradient variations. Include notes about your design and learning process, and how you'd develop it further.
+## Manipulating and Analysing Pixels (Week 2)
+See folder: Manipulating and Analysing Pixels  
+
+- Explored RGB channels and histograms
+
+- Created simple image effects using thresholds and patterns
+
+---
+
+## Noise and Image Filtering (Week 4)
+See folder: Noise and Image Filtering  
+
+- Applied image filters
+
+- Explored perlin noise
+
+- Used LerpColor
+
+---
+
+## Pixel and Colours (Week 1)
+See folder: Pixel and Colours  
+
+- Introduction into the unit
+
+- Learned how images are made up of pixels
+
+---
+
+## Vector Graphics (Week 3)
+See folder: Vector Graphics  
+
+- Used shaes to build images 
+
+- Applied transformations
+
+---
+
+## Week 07 – Digital Sound and Oscillation
+See folder: week_07  
+
+- Learned how sound waves and oscillators work
+
+- Worked with sine, sawtooth and triangle waves
+
+---
+
+## Week 08 – Algorithmic Music and Sampling
+See folder: week_08  
+
+- Used modulo operator to create repeating patterns
+
+- Worked with audio samples to create a drum beat
+
+---
+
+## Week 09
+See folder: week_09  
+
+- Used classes to control movement and behaviour
+
+- Applied forces such as gravity and wind
+
+- Built a simple interactive game
+
+---
+
+
+
+# Link to Google Drive with videos of working sketches:
+
+https://drive.google.com/drive/folders/1w59n3zovpWjMwOGFwJgM_Wma6M8JvJ2j?usp=sharing
+
+
+
+
+# Link to my Github Repo:
+
+https://github.com/JaysParaphernalia/Sound-and-Image-Processing-2026
