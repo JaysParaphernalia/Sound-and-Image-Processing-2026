@@ -5,9 +5,9 @@ See folder: Dithering and Convolution
 
 - Worked with pixel arrays and image processing
 
-- Used the processing library to work with live camera feed
+- Used the Processing library to work with live camera feed
 
-- Recrated camera output by coping and modifying pixels
+- Recreated camera output by copying and modifying pixels
 
 ---
 
@@ -27,7 +27,7 @@ See folder: Noise and Image Filtering
 
 - Explored perlin noise
 
-- Used LerpColor
+- Used lerpColor
 
 ---
 
@@ -61,9 +61,11 @@ See folder: week_07
 ## Week 08 – Algorithmic Music and Sampling
 See folder: week_08  
 
-- Used modulo operator to create repeating patterns
+- Used modulo operator to create repeating patterns in music
 
 - Worked with audio samples to create a drum beat
+
+- Introduced variation using timing and randomness
 
 ---
 
